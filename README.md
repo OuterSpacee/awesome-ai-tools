@@ -547,6 +547,7 @@ To add a tool:
 |---------|-------------|
 | [Build Your Own AI](https://github.com/OuterSpacee/build-your-own-ai) | 150+ tutorials for building AI projects from scratch |
 | [AI Engineering Handbook](https://github.com/OuterSpacee/ai-engineering-handbook) | Everything you need to build production AI apps |
+| [aimsg](https://github.com/OuterSpacee/aimsg) | AI-powered git commit messages — free with Ollama |
 
 <div align="center">
 
