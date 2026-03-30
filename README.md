@@ -537,6 +537,19 @@ To add a tool:
 
 **Found this useful? Give it a star and share it with others.**
 
+</div>
+
+---
+
+## Also By OuterSpacee
+
+| Project | Description |
+|---------|-------------|
+| [Build Your Own AI](https://github.com/OuterSpacee/build-your-own-ai) | 150+ tutorials for building AI projects from scratch |
+| [AI Engineering Handbook](https://github.com/OuterSpacee/ai-engineering-handbook) | Everything you need to build production AI apps |
+
+<div align="center">
+
 Made with effort by the community. Updated regularly.
 
 </div>
