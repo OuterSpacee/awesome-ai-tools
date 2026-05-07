@@ -101,6 +101,7 @@ AI-powered coding assistants, IDEs, and development tools.
 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) | AWS-integrated AI coding assistant | 💰 🖥️ |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's terminal-native AI coding agent | 💰 ⌨️ |
 | [Antigravity](https://antigravity.dev) | Full-stack AI coding agent with browser testing | 💰 🌐 |
+| [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) | Windows tray monitor for Claude Code and Codex usage | 🟢 🔓 🖥️ |
 
 ### Code Generation & Review
 
