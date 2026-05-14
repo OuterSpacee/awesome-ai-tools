@@ -396,6 +396,7 @@ AI-powered design, prototyping, and UI development tools.
 
 | Tool | Description | Access |
 |------|-------------|--------|
+| [Aurcue](https://www.aurcue.com) | AI personal styling reports from user photos | 💰 🌐 |
 | [Figma AI](https://figma.com) | AI features integrated into Figma | 💰 🌐 |
 | [v0](https://v0.dev) | Generate UI components from text (by Vercel) | 💰 🌐 |
 | [Galileo AI](https://usegalileo.ai) | AI UI/UX design from text descriptions | 💰 🌐 |
