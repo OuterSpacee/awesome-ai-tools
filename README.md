@@ -405,6 +405,7 @@ AI-powered design, prototyping, and UI development tools.
 | [Penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform | 🟢 🔓 🌐 |
 | [shadcn/ui](https://github.com/shadcn-ui/ui) | Beautiful, copy-paste UI components | 🟢 🔓 |
 | [Stitch](https://stitch.withgoogle.com) | Google's AI design system tool | 💰 🌐 |
+| [LandscapioAI](https://www.landscapioai.com) | AI landscape design from yard photos with cost-aware makeover ideas | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
