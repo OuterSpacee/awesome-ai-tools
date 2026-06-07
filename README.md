@@ -130,6 +130,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Leonardo AI](https://leonardo.ai) | Generous free tier image generation | 💰 🌐 |
 | [Microsoft Designer](https://designer.microsoft.com) | AI image generation with templates | 💰 🌐 |
 | [Playground](https://playground.com) | Mixed image generation and editing | 💰 🌐 |
+| [ClearCrowds](https://www.clearcrowds.com) | AI photo cleanup and editing for removing crowds, objects, clutter, and other distractions | 💰 🌐 |
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
 
