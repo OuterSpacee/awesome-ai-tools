@@ -131,6 +131,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Microsoft Designer](https://designer.microsoft.com) | AI image generation with templates | 💰 🌐 |
 | [Playground](https://playground.com) | Mixed image generation and editing | 💰 🌐 |
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
+| [GPT Image 2](https://gptimage2.asia/) | AI image generation and editing for marketing and ecommerce visuals | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
 
 ### Open Source / Self-Hosted
