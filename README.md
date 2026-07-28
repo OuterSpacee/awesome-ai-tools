@@ -387,6 +387,7 @@ Model Context Protocol servers, clients, and ecosystem tools.
 | [FastMCP](https://github.com/jlowin/fastmcp) | Python framework for building MCP servers quickly | 🟢 🔓 |
 | [Smithery](https://smithery.ai) | MCP server registry and discovery | 💰 🌐 |
 | [Supergateway](https://github.com/nicholasgriffintn/supergateway) | Run MCP servers over HTTP/SSE | 🟢 🔓 |
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend data MCP server and REST API.
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
