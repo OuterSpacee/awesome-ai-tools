@@ -132,6 +132,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Playground](https://playground.com) | Mixed image generation and editing | 💰 🌐 |
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
+| [YingTu](https://yingtu.ai/en) | Browser playground for testing AI image and video API routes | 🌐 |
 
 ### Open Source / Self-Hosted
 
