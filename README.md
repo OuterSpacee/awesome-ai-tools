@@ -231,6 +231,7 @@ AI-powered search engines and research tools.
 | [Tavily](https://tavily.com) | Search API built specifically for AI agents | 💰 🌐 |
 | [Phind](https://phind.com) | AI search engine for developers | 💰 🌐 |
 | [Elicit](https://elicit.com) | AI research assistant for academic papers | 💰 🌐 |
+| [IdeaHunter](https://ideahunter.today) | Startup idea research and validation for founders | 💰 🌐 |
 | [Consensus](https://consensus.app) | AI search through scientific papers | 💰 🌐 |
 | [SearXNG](https://github.com/searxng/searxng) | Self-hosted, privacy-respecting metasearch engine | 🟢 🔓 🌐 |
 
