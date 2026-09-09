@@ -205,6 +205,7 @@ AI tools for writing, editing, content creation, and copywriting.
 | Tool | Description | Access |
 |------|-------------|--------|
 | [Grammarly](https://grammarly.com) | AI writing assistant with grammar and style checks | 💰 🌐 🖥️ |
+| [ResumeAI](https://withresumeai.com/) | AI resume builder + free ATS checker | 💰 🌐 |
 | [Jasper](https://jasper.ai) | Enterprise AI content platform | 💵 🌐 |
 | [Copy.ai](https://copy.ai) | AI for marketing copy, emails, and sales content | 💰 🌐 |
 | [Writesonic](https://writesonic.com) | AI content writing with SEO features | 💰 🌐 |
