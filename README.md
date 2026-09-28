@@ -123,6 +123,7 @@ Tools for creating images from text, editing photos, and generating art.
 
 | Tool | Description | Access |
 |------|-------------|--------|
+| [Raphael AI](https://raphael.app) | Free unlimited AI image generator for product shots, ads, and brand visuals | 🟢💰 🌐 |
 | [Midjourney](https://midjourney.com) | Highest quality artistic image generation | 💵 🌐 |
 | [DALL-E](https://openai.com/dall-e-3) | OpenAI image generation, integrated into ChatGPT | 💰 🌐 |
 | [Adobe Firefly](https://firefly.adobe.com) | Commercial-safe AI image generation | 💰 🌐 |
