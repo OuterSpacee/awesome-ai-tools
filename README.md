@@ -80,6 +80,7 @@ General-purpose AI chat interfaces and personal assistants.
 | [DuckDuckGo AI Chat](https://duckduckgo.com/aichat) | Private AI chat with no data retention | 🟢 🌐 |
 | [Poe](https://poe.com) | Access multiple AI models in one platform | 💰 🌐 |
 | [You.com](https://you.com) | Conversational AI search with Smart/Genius/Research modes | 💰 🌐 |
+| [AI Group Call](https://aigroupcall.app) | You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap. | - |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
