@@ -154,6 +154,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 
 | Tool | Description | Access |
 |------|-------------|--------|
+| [Clout](https://tryclout.ai/) | AI characters, image/video generation, and faceless content workflows | 💵 🌐 |
 | [Sora](https://sora.com) | OpenAI's video generation model | 💵 🌐 |
 | [Google Veo](https://deepmind.google/technologies/veo/) | Google's high-quality video generation via Gemini | 💰 🌐 |
 | [Kling AI](https://klingai.com) | High-quality free-tier video generation | 💰 🌐 |
