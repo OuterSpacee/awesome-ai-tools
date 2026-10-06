@@ -291,6 +291,7 @@ No-code/low-code AI automation platforms.
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM app development platform | 🟢 🔓 🌐 |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flow builder | 🟢 🔓 🌐 |
 | [Activepieces](https://github.com/activepieces/activepieces) | Open-source Zapier alternative with AI | 🟢 🔓 🌐 |
+| [SIDRA OS](https://agent.sidra-ai.com/) | Connect AI chats to local computer execution | 💰 🖥️ |
 | [Zapier](https://zapier.com) | Workflow automation with AI actions | 💰 🌐 |
 | [Make](https://make.com) | Visual automation platform | 💰 🌐 |
 | [Rivet](https://github.com/Ironclad/rivet) | Visual AI agent builder and debugger | 🟢 🔓 🖥️ |
