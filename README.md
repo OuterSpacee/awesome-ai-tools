@@ -174,6 +174,9 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [Mochi 1](https://github.com/genmoai/mochi) | High-fidelity open-source video generation | 🟢 🔓 |
 | [CogVideo](https://github.com/THUDM/CogVideo) | Open-source text-to-video by Tsinghua | 🟢 🔓 |
 | [SkyReels](https://github.com/SkyworkAI/SkyReels-V1) | Open-source video generation model | 🟢 🔓 |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | One photo → 13s 21:9 solo AI dance (unofficial) | 💰 🌐 |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | Two photos → 15s neon duo dance | 💰 🌐 |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Photo → ~5s 9:16 AI dance | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
