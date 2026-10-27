@@ -180,9 +180,9 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with prompt library (Freemium) | 🟢 🌐 |
 | [TeslaWraps](https://teslawraps.design) | Free browser Tesla wrap designer; core editing free | 🟢 🌐 |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent text/image-to-video via Grok Imagine API (Free Trial) | 🟢 🌐 |
-| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent text/image-to-video via Grok Imagine API (Free Trial) | 🟢 🌐 |
-| [Bad Times AI](https://badtimesai.dev) | Independent text/image-to-video via Grok Imagine API (Free Trial) | 🟢 🌐 |
-| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent text/image-to-video via Grok Imagine API (Free Trial) | 🟢 🌐 |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent: two photos → 13s studio dance (Paid; not Stromae/TikTok) | 🟢 🌐 |
+| [Bad Times AI](https://badtimesai.dev) | Independent AI dance effect: one photo → 14–15s (Paid from $7.99) | 🟢 🌐 |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent AI scene effect: two photos → meeting clip (Paid from $7.99) | 🟢 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
