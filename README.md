@@ -177,6 +177,9 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | One photo → 13s 21:9 solo AI dance (unofficial) | 💰 🌐 |
 | [A2O LITE NEON AI Dance](https://a2oliteai.org) | Two photos → 15s neon duo dance | 💰 🌐 |
 | [dime dime baby ai](https://dimedimebabyai.dev) | Photo → ~5s 9:16 AI dance | 💰 🌐 |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with prompt library (Freemium) | 🟢 🌐 |
+| [TeslaWraps](https://teslawraps.design) | Free browser Tesla wrap designer; core editing free | 🟢 🌐 |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent text/image-to-video via Grok Imagine API (Free Trial) | 🟢 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
