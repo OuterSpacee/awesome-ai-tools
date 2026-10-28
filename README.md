@@ -4,6 +4,7 @@
 
 # Awesome AI Tools
 
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 **The most comprehensive, curated list of AI tools for every use case.**
 
 Coding, writing, image, video, audio, search, agents, models, infrastructure — all in one place.
