@@ -220,6 +220,7 @@ AI tools for writing, editing, content creation, and copywriting.
 | [QuillBot](https://quillbot.com) | AI paraphrasing, summarizing, grammar checker | 💰 🌐 |
 | [Jenni AI](https://jenni.ai) | AI writing for academic papers with citations | 💰 🌐 |
 | [Hemingway Editor](https://hemingwayapp.com) | AI-enhanced readability editing | 💰 🌐 |
+| [HumanPen](https://humanpen.net) | Document rewriter that preserves layout and citations | 💰 🌐 |
 | [Sudowrite](https://sudowrite.com) | AI creative/fiction writing assistant | 💰 🌐 |
 | [Lex](https://lex.page) | Minimalist AI-enhanced writing editor | 💰 🌐 |
 
