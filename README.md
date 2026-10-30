@@ -251,6 +251,7 @@ Note-taking, meeting tools, task management, and workflow enhancement.
 |------|-------------|--------|
 | [NotebookLM](https://notebooklm.google.com) | Google's AI research tool with source-grounded answers | 🟢 🌐 |
 | [Notion AI](https://notion.so) | AI layer across your entire Notion workspace | 💰 🌐 🖥️ |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI team coordinated by a Commander in one chat. | 🔓 🖥️ |
 | [Otter.ai](https://otter.ai) | AI meeting transcription and summaries | 💰 🌐 |
 | [Fireflies.ai](https://fireflies.ai) | AI notetaker for meetings | 💰 🌐 |
 | [Granola](https://granola.ai) | AI-enhanced meeting notes | 💰 🖥️ |
