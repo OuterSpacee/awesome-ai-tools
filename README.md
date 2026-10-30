@@ -242,18 +242,19 @@ Note-taking, meeting tools, task management, and workflow enhancement.
 
 | Tool | Description | Access |
 |------|-------------|--------|
+| [Beautiful.ai](https://beautiful.ai) | AI presentation design | 💰 🌐 |
+| [Fireflies.ai](https://fireflies.ai) | AI notetaker for meetings | 💰 🌐 |
+| [Gamma](https://gamma.app) | AI-powered presentations and documents | 💰 🌐 |
+| [Granola](https://granola.ai) | AI-enhanced meeting notes | 💰 🖥️ |
+| [JobEmerge](https://www.jobemerge.work) | AI career copilot. One-time pricing, no auto-renewal. | 💰 🌐 |
+| [Mem](https://mem.ai) | Self-organizing AI workspace | 💰 🌐 |
+| [Motion](https://usemotion.com) | AI-powered calendar and task scheduler | 💵 🌐 |
 | [NotebookLM](https://notebooklm.google.com) | Google's AI research tool with source-grounded answers | 🟢 🌐 |
 | [Notion AI](https://notion.so) | AI layer across your entire Notion workspace | 💰 🌐 🖥️ |
 | [Otter.ai](https://otter.ai) | AI meeting transcription and summaries | 💰 🌐 |
-| [Fireflies.ai](https://fireflies.ai) | AI notetaker for meetings | 💰 🌐 |
-| [Granola](https://granola.ai) | AI-enhanced meeting notes | 💰 🖥️ |
-| [Motion](https://usemotion.com) | AI-powered calendar and task scheduler | 💵 🌐 |
-| [Mem](https://mem.ai) | Self-organizing AI workspace | 💰 🌐 |
 | [Reclaim.ai](https://reclaim.ai) | AI calendar optimization | 💰 🌐 |
-| [tl;dv](https://tldv.io) | AI meeting recorder and summarizer | 💰 🌐 |
-| [Gamma](https://gamma.app) | AI-powered presentations and documents | 💰 🌐 |
-| [Beautiful.ai](https://beautiful.ai) | AI presentation design | 💰 🌐 |
 | [Slidev](https://github.com/slidevjs/slidev) | Developer-friendly presentation tool | 🟢 🔓 🌐 |
+| [tl;dv](https://tldv.io) | AI meeting recorder and summarizer | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
