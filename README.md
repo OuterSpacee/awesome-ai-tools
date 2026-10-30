@@ -9,7 +9,7 @@
 Coding, writing, image, video, audio, search, agents, models, infrastructure — all in one place.
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Last Updated](https://img.shields.io/badge/last_updated-March_2026-blue)
+![Last Updated](https://img.shields.io/badge/last_updated-October_2026-blue)
 ![Tools Listed](https://img.shields.io/badge/tools_listed-200+-brightgreen)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
@@ -68,7 +68,7 @@ General-purpose AI chat interfaces and personal assistants.
 
 | Tool | Description | Access |
 |------|-------------|--------|
-| [ChatGPT](https://chat.openai.com) | OpenAI's conversational AI with GPT-5 | 💰 🌐 🖥️ |
+| [ChatGPT](https://chatgpt.com) | OpenAI's conversational AI with GPT-5 | 💰 🌐 🖥️ |
 | [Claude](https://claude.ai) | Anthropic's AI assistant, strong at reasoning and code | 💰 🌐 🖥️ |
 | [Gemini](https://gemini.google.com) | Google's multimodal AI with deep Google integration | 💰 🌐 |
 | [Microsoft Copilot](https://copilot.microsoft.com) | AI assistant integrated into Microsoft ecosystem | 💰 🌐 |
@@ -77,10 +77,12 @@ General-purpose AI chat interfaces and personal assistants.
 | [Jan](https://jan.ai) | Offline-first, open-source ChatGPT alternative | 🟢 🔓 🖥️ |
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI interface supporting multiple models | 🟢 🔓 🌐 |
 | [HuggingChat](https://huggingface.co/chat) | Open-source chat interface by Hugging Face | 🟢 🌐 |
-| [DuckDuckGo AI Chat](https://duckduckgo.com/aichat) | Private AI chat with no data retention | 🟢 🌐 |
+| [DuckDuckGo AI Chat](https://duck.ai/chat) | Private AI chat with no data retention | 🟢 🌐 |
 | [Poe](https://poe.com) | Access multiple AI models in one platform | 💰 🌐 |
 | [WSUP AI](https://wsupai.app/) | Free AI character chat in the browser — talk to AI characters with no sign up. SFW only | 🟢 🌐 |
 | [You.com](https://you.com) | Conversational AI search with Smart/Genius/Research modes | 💰 🌐 |
+| [Grok](https://grok.com) | xAI's conversational AI with real-time X and web access | 💰 🌐 |
+| [Le Chat](https://chat.mistral.ai) | Mistral's AI assistant with web search and canvas | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -92,10 +94,10 @@ AI-powered coding assistants, IDEs, and development tools.
 
 | Tool | Description | Access |
 |------|-------------|--------|
-| [Claude Code](https://claude.ai/code) | Terminal-native agentic coding with Claude Opus 4.6 | 💰 ⌨️ 🖥️ |
+| [Claude Code](https://claude.ai/code) | Terminal-native agentic coding with Claude | 💰 ⌨️ 🖥️ |
 | [Cursor](https://cursor.com) | AI-native IDE (VS Code fork) with full codebase understanding | 💰 🖥️ |
 | [GitHub Copilot](https://github.com/features/copilot) | Most widely adopted AI coding assistant (15M+ devs) | 💰 🖥️ |
-| [Windsurf](https://codeium.com/windsurf) | AI IDE with autonomous multi-step coding agents | 💰 🖥️ |
+| [Windsurf](https://windsurf.com) | AI IDE with autonomous multi-step coding agents | 💰 🖥️ |
 | [Cline](https://github.com/cline/cline) | Open-source VS Code extension with BYOK | 🟢 🔓 🖥️ |
 | [Continue](https://github.com/continuedev/continue) | Open-source AI code assistant for any IDE | 🟢 🔓 🖥️ |
 | [Aider](https://github.com/Aider-AI/aider) | AI pair programming in your terminal | 🟢 🔓 ⌨️ |
@@ -103,6 +105,12 @@ AI-powered coding assistants, IDEs, and development tools.
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's terminal-native AI coding agent | 💰 ⌨️ |
 | [Antigravity](https://antigravity.dev) | Full-stack AI coding agent with browser testing | 💰 🌐 |
 | [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) | Windows tray monitor for Claude Code and Codex usage | 🟢 🔓 🖥️ |
+| [Zed](https://zed.dev) | High-performance open-source editor with built-in AI agents | 🟢 🔓 🖥️ |
+| [OpenAI Codex CLI](https://github.com/openai/codex) | OpenAI's open-source terminal coding agent | 🟢 🔓 ⌨️ |
+| [OpenCode](https://opencode.ai) | Open-source terminal coding agent supporting any model provider | 🟢 🔓 ⌨️ |
+| [Kilo Code](https://github.com/Kilo-Org/kilocode) | Open-source coding agent for VS Code and JetBrains | 🟢 🔓 🖥️ |
+| [Kiro](https://kiro.dev) | Spec-driven agentic IDE from AWS | 💰 🖥️ |
+| [Warp](https://www.warp.dev) | Agentic terminal with built-in AI coding agents | 💰 🖥️ |
 
 ### Code Generation & Review
 
@@ -110,10 +118,12 @@ AI-powered coding assistants, IDEs, and development tools.
 |------|-------------|--------|
 | [OpenAI Codex](https://openai.com/index/openai-codex/) | Autonomous coding agent from OpenAI | 💰 🌐 |
 | [Replit Agent](https://replit.com) | Build and deploy apps from natural language | 💰 🌐 |
-| [v0](https://v0.dev) | AI-powered UI component generator by Vercel | 💰 🌐 |
+| [v0](https://v0.app) | AI-powered UI component generator by Vercel | 💰 🌐 |
 | [bolt.new](https://bolt.new) | Build full-stack apps from prompts in browser | 💰 🌐 |
 | [Lovable](https://lovable.dev) | AI full-stack app builder | 💰 🌐 |
 | [Codegen](https://codegen.com) | Large-scale codebase refactoring agent | 💰 🌐 |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Open-source autonomous software engineering agent | 🟢 🔓 🌐 |
+| [Goose](https://github.com/aaif-goose/goose) | Extensible open-source local AI agent for engineering tasks | 🟢 🔓 ⌨️ |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -136,6 +146,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [ClearCrowds](https://www.clearcrowds.com) | AI photo cleanup and editing for removing crowds, objects, clutter, and other distractions | 💰 🌐 |
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
+| [Recraft](https://www.recraft.ai) | Design-focused image generation with vector (SVG) output | 💰 🌐 |
 
 ### Open Source / Self-Hosted
 
@@ -143,11 +154,10 @@ Tools for creating images from text, editing photos, and generating art.
 |------|-------------|--------|
 | [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | The most popular open-source image generation model | 🟢 🔓 |
 | [AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Feature-rich web UI for Stable Diffusion | 🟢 🔓 🌐 |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based workflow UI for image/video generation | 🟢 🔓 🖥️ |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based workflow UI for image/video generation | 🟢 🔓 🖥️ |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Simplified Stable Diffusion, Midjourney-like interface | 🟢 🔓 🖥️ |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Professional creative AI toolkit | 🟢 🔓 🖥️ |
 | [Draw Things](https://drawthings.ai) | AI image generation on Apple Silicon | 🟢 🖥️ |
-| [Krealize](https://krealize.app/) | Local Krea 2 image generation on Apple silicon via MLX | 💰 🖥️ |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -162,24 +172,26 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [Clout](https://tryclout.ai/) | AI characters, image/video generation, and faceless content workflows | 💵 🌐 |
 | [Sora](https://sora.com) | OpenAI's video generation model | 💵 🌐 |
 | [Google Veo](https://deepmind.google/technologies/veo/) | Google's high-quality video generation via Gemini | 💰 🌐 |
-| [Kling AI](https://klingai.com) | High-quality free-tier video generation | 💰 🌐 |
-| [Runway](https://runwayml.com) | Professional AI video editing and generation suite | 💵 🌐 |
+| [Kling AI](https://kling.ai) | High-quality free-tier video generation | 💰 🌐 |
+| [Runway](https://runway.com) | Professional AI video editing and generation suite | 💵 🌐 |
 | [Pika](https://pika.art) | Creative video generation with style controls | 💰 🌐 |
 | [LiveFaceSwap AI](https://livefaceswap.ai/) | Cloud webcam face swapping with browser preview and desktop camera output | 💵 🌐 🖥️ |
 | [Luma Dream Machine](https://lumalabs.ai) | Fast video generation with strong motion | 💰 🌐 |
 | [Hailuo MiniMax](https://hailuoai.video) | High-quality video generation | 💰 🌐 |
 | [CapCut](https://capcut.com) | AI-powered video editing for social content | 💰 🌐 🖥️ |
+| [HeyGen](https://www.heygen.com) | AI avatar videos and video translation | 💰 🌐 |
+| [Synthesia](https://www.synthesia.io) | AI presenter videos for training and marketing | 💰 🌐 |
 
 ### Open Source / Self-Hosted
 
 | Tool | Description | Access |
 |------|-------------|--------|
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-source Sora replication (text/image/video-to-video) | 🟢 🔓 |
-| [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | Tencent's open-source video generation model | 🟢 🔓 |
+| [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | Tencent's open-source video generation model | 🟢 🔓 |
 | [Wan 2.1](https://github.com/Wan-Video/Wan2.1) | Powerful open-source video model | 🟢 🔓 |
 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | Production-ready open-source video with 4K and audio | 🟢 🔓 |
 | [Mochi 1](https://github.com/genmoai/mochi) | High-fidelity open-source video generation | 🟢 🔓 |
-| [CogVideo](https://github.com/THUDM/CogVideo) | Open-source text-to-video by Tsinghua | 🟢 🔓 |
+| [CogVideo](https://github.com/zai-org/CogVideo) | Open-source text-to-video by Tsinghua | 🟢 🔓 |
 | [SkyReels](https://github.com/SkyworkAI/SkyReels-V1) | Open-source video generation model | 🟢 🔓 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
@@ -202,6 +214,7 @@ Voice generation, music creation, audio editing, and speech-to-text tools.
 | [Descript](https://descript.com) | AI-powered audio/video editing with overdub | 💰 🖥️ |
 | [Deepgram](https://deepgram.com) | Fast, accurate speech-to-text API | 💰 🌐 |
 | [AssemblyAI](https://assemblyai.com) | Speech-to-text with speaker diarization | 💰 🌐 |
+| [Kokoro](https://github.com/hexgrad/kokoro) | Lightweight open-weight text-to-speech model (82M) | 🟢 🔓 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -260,8 +273,8 @@ Note-taking, meeting tools, task management, and workflow enhancement.
 | [JobEmerge](https://www.jobemerge.work) | AI career copilot. One-time pricing, no auto-renewal. | 💰 🌐 |
 | [Mem](https://mem.ai) | Self-organizing AI workspace | 💰 🌐 |
 | [Motion](https://usemotion.com) | AI-powered calendar and task scheduler | 💵 🌐 |
-| [NotebookLM](https://notebooklm.google.com) | Google's AI research tool with source-grounded answers | 🟢 🌐 |
-| [Notion AI](https://notion.so) | AI layer across your entire Notion workspace | 💰 🌐 🖥️ |
+| [NotebookLM](https://notebook.google.com) | Google's AI research tool with source-grounded answers | 🟢 🌐 |
+| [Notion AI](https://www.notion.com) | AI layer across your entire Notion workspace | 💰 🌐 🖥️ |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI team coordinated by a Commander in one chat. | 🔓 🖥️ |
 | [Otter.ai](https://otter.ai) | AI meeting transcription and summaries | 💰 🌐 |
 | [Reclaim.ai](https://reclaim.ai) | AI calendar optimization | 💰 🌐 |
@@ -283,13 +296,17 @@ Frameworks and tools for building autonomous AI agents.
 | [AutoGen](https://github.com/microsoft/autogen) | Microsoft's multi-agent conversation framework | 🟢 🔓 |
 | [OpenClaw](https://github.com/openclaw/openclaw) | Personal AI agent for any platform | 🟢 🔓 |
 | [Mastra](https://github.com/mastra-ai/mastra) | TypeScript AI agent framework | 🟢 🔓 |
-| [Claude Agent SDK](https://github.com/anthropics/claude-code-sdk-python) | Build custom agents with Claude | 🟢 🔓 |
+| [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) | Build custom agents with Claude | 🟢 🔓 |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Microsoft's AI orchestration SDK | 🟢 🔓 |
 | [Haystack](https://github.com/deepset-ai/haystack) | End-to-end NLP/LLM application framework | 🟢 🔓 |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for LLM applications | 🟢 🔓 |
 | [DSPy](https://github.com/stanfordnlp/dspy) | Programming (not prompting) language models | 🟢 🔓 |
 | [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe AI agent framework | 🟢 🔓 |
 | [Smolagents](https://github.com/huggingface/smolagents) | Lightweight agents by Hugging Face | 🟢 🔓 |
+| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Lightweight multi-agent framework with tracing and guardrails | 🟢 🔓 |
+| [Google ADK](https://github.com/google/adk-python) | Google's code-first Agent Development Kit | 🟢 🔓 |
+| [Browser Use](https://github.com/browser-use/browser-use) | Let AI agents control and automate the web browser | 🟢 🔓 |
+| [Agno](https://github.com/agno-agi/agno) | Build multi-agent systems with memory, knowledge and tools | 🟢 🔓 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -299,7 +316,6 @@ No-code/low-code AI automation platforms.
 
 | Tool | Description | Access |
 |------|-------------|--------|
-| [CallURL](https://callurl.com) | Create AI phone lines for workflows, forms, and events | 🟢 🌐 |
 | [n8n](https://github.com/n8n-io/n8n) | Open-source workflow automation with 400+ integrations | 🟢 🔓 🌐 |
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual LLM app builder (drag-and-drop) | 🟢 🔓 🌐 |
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM app development platform | 🟢 🔓 🌐 |
@@ -328,7 +344,9 @@ Leading open-weight language models you can run locally or self-host.
 | [Command R+](https://huggingface.co/CohereForAI/c4ai-command-r-plus) | Cohere | 104B | Excellent for RAG and enterprise |
 | [StarCoder](https://github.com/bigcode-project/starcoder) | BigCode | 15B | Specialized for code generation |
 | [Yi](https://github.com/01-ai/Yi) | 01.AI | 6B-34B | Strong bilingual (EN/CN) |
-| [DBRX](https://github.com/databricks/dbrx) | Databricks | 132B (MoE) | Enterprise-focused |
+| [DBRX](https://huggingface.co/databricks/dbrx-instruct) | Databricks | 132B (MoE) | Enterprise-focused |
+| [gpt-oss](https://github.com/openai/gpt-oss) | OpenAI | 20B / 120B (MoE) | Apache 2.0 open-weight reasoning models |
+| [Kimi K2](https://github.com/MoonshotAI/Kimi-K2) | Moonshot AI | 1T MoE (32B active) | Strong agentic and coding performance |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -367,6 +385,8 @@ Libraries and frameworks for building AI/ML applications.
 | [Unsloth](https://github.com/unslothai/unsloth) | Fine-tune LLMs 2-5x faster with 80% less memory | 🟢 🔓 |
 | [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) | Easy-to-use LLM fine-tuning tool | 🟢 🔓 |
 | [PEFT](https://github.com/huggingface/peft) | Parameter-efficient fine-tuning methods | 🟢 🔓 |
+| [Vercel AI SDK](https://github.com/vercel/ai) | TypeScript toolkit for building AI apps and agents | 🟢 🔓 |
+| [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM observability, evals and prompt management | 🟢 🔓 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -383,9 +403,9 @@ Retrieval-augmented generation tools and vector storage.
 | [Pinecone](https://pinecone.io) | Managed vector database | 💰 🌐 |
 | [pgvector](https://github.com/pgvector/pgvector) | Vector search for PostgreSQL | 🟢 🔓 |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | Open-source RAG engine with agent capabilities | 🟢 🔓 |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | Turn websites into LLM-ready data | 🟢 🔓 |
+| [Firecrawl](https://github.com/firecrawl/firecrawl) | Turn websites into LLM-ready data | 🟢 🔓 |
 | [Unstructured](https://github.com/Unstructured-IO/unstructured) | Extract data from any document format | 🟢 🔓 |
-| [Docling](https://github.com/DS4SD/docling) | Document parsing for AI pipelines | 🟢 🔓 |
+| [Docling](https://github.com/docling-project/docling) | Document parsing for AI pipelines | 🟢 🔓 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -395,15 +415,17 @@ Model Context Protocol servers, clients, and ecosystem tools.
 
 | Tool | Description | Access |
 |------|-------------|--------|
-| [MCP Specification](https://github.com/modelcontextprotocol/specification) | The official MCP protocol spec (Linux Foundation) | 🟢 🔓 |
+| [MCP Specification](https://github.com/modelcontextprotocol/modelcontextprotocol) | The official MCP protocol spec (Linux Foundation) | 🟢 🔓 |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Official reference MCP server implementations | 🟢 🔓 |
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Curated list of MCP servers | 🟢 🔓 |
 | [mcp-framework](https://github.com/QuantGeekDev/mcp-framework) | Fast MCP server building framework | 🟢 🔓 |
-| [FastMCP](https://github.com/jlowin/fastmcp) | Python framework for building MCP servers quickly | 🟢 🔓 |
+| [FastMCP](https://github.com/PrefectHQ/fastmcp) | Python framework for building MCP servers quickly | 🟢 🔓 |
 | [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first video composition and editing via CLI, MCP and plan.json timelines. | 🔓 ⌨️ |
 | [Smithery](https://smithery.ai) | MCP server registry and discovery | 💰 🌐 |
 | [Serpel](https://serpel.app) | SEO infrastructure for rankings, audits, keywords, and AI visibility | 💰 🌐 |
-| [Supergateway](https://github.com/nicholasgriffintn/supergateway) | Run MCP servers over HTTP/SSE | 🟢 🔓 |
+| [Supergateway](https://github.com/supercorp-ai/supergateway) | Run MCP servers over HTTP/SSE | 🟢 🔓 |
+| [Context7](https://github.com/upstash/context7) | MCP server serving up-to-date library docs to coding agents | 🟢 🔓 |
+| [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation MCP server by Microsoft | 🟢 🔓 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -415,8 +437,7 @@ AI-powered design, prototyping, and UI development tools.
 |------|-------------|--------|
 | [Aurcue](https://www.aurcue.com) | AI personal styling reports from user photos | 💰 🌐 |
 | [Figma AI](https://figma.com) | AI features integrated into Figma | 💰 🌐 |
-| [v0](https://v0.dev) | Generate UI components from text (by Vercel) | 💰 🌐 |
-| [Galileo AI](https://usegalileo.ai) | AI UI/UX design from text descriptions | 💰 🌐 |
+| [v0](https://v0.app) | Generate UI components from text (by Vercel) | 💰 🌐 |
 | [Uizard](https://uizard.io) | AI-powered UI design and prototyping | 💰 🌐 |
 | [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard with AI features | 🟢 🔓 🌐 |
 | [tldraw](https://github.com/tldraw/tldraw) | Collaborative whiteboard with AI integration | 🟢 🔓 🌐 |
@@ -450,10 +471,9 @@ AI-powered security tools and AI security testing.
 | Tool | Description | Access |
 |------|-------------|--------|
 | [Garak](https://github.com/NVIDIA/garak) | LLM vulnerability scanner | 🟢 🔓 |
-| [Rebuff](https://github.com/protectai/rebuff) | Prompt injection detection | 🟢 🔓 |
 | [LLM Guard](https://github.com/protectai/llm-guard) | Security toolkit for LLM interactions | 🟢 🔓 |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Input/output validation for LLMs | 🟢 🔓 |
-| [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA's toolkit for safe LLM apps | 🟢 🔓 |
+| [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) | NVIDIA's toolkit for safe LLM apps | 🟢 🔓 |
 | [Lakera Guard](https://lakera.ai) | Real-time AI content security | 💰 🌐 |
 | [Snyk](https://snyk.io) | AI-powered code security scanning | 💰 🌐 |
 
@@ -470,11 +490,13 @@ Complete AI platforms you can run on your own infrastructure.
 | [Jan](https://github.com/janhq/jan) | Desktop ChatGPT alternative, runs offline | 🟢 🔓 🖥️ |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted OpenAI-compatible API | 🟢 🔓 |
 | [Dify](https://github.com/langgenius/dify) | Self-hosted LLM app platform | 🟢 🔓 🌐 |
-| [LibreChat](https://github.com/danny-avila/LibreChat) | Multi-model chat UI with plugin system | 🟢 🔓 🌐 |
+| [LibreChat](https://github.com/LibreChat-AI/LibreChat) | Multi-model chat UI with plugin system | 🟢 🔓 🌐 |
 | [RustDesk](https://github.com/rustdesk/rustdesk) | Self-hosted remote desktop with AI features | 🟢 🔓 🖥️ |
 | [Immich](https://github.com/immich-app/immich) | Self-hosted Google Photos with AI categorization | 🟢 🔓 🌐 |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Self-hosted PDF tools with AI features | 🟢 🔓 🌐 |
 | [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | AI-powered document management | 🟢 🔓 🌐 |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one local RAG and agent desktop and server app | 🟢 🔓 🖥️ |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | Desktop client for many LLM providers and local models | 🟢 🔓 🖥️ |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -485,7 +507,7 @@ APIs and cloud platforms for integrating AI into your applications.
 | Platform | Models Available | Free Tier |
 |----------|-----------------|-----------|
 | [OpenAI API](https://platform.openai.com) | GPT-5, o3, DALL-E, Whisper, TTS | Limited credits |
-| [Anthropic API](https://console.anthropic.com) | Claude Opus 4.6, Sonnet 4.6, Haiku 4.5 | Limited credits |
+| [Anthropic API](https://platform.claude.com) | Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 | Limited credits |
 | [Google AI Studio](https://aistudio.google.com) | Gemini 2.5 Pro/Flash | Generous free tier |
 | [Groq](https://groq.com) | Ultra-fast inference (Llama, Mixtral) | Free tier |
 | [Together AI](https://together.ai) | 100+ open-source models | Free credits |
@@ -509,7 +531,6 @@ Browser extensions that add AI capabilities.
 | [Merlin](https://getmerlin.in) | AI assistant on any website | Chrome |
 | [Sider](https://sider.ai) | ChatGPT sidebar for any page | Chrome |
 | [Glasp](https://glasp.co) | AI-powered web highlighter and notes | Chrome |
-| [Wiseone](https://wiseone.io) | AI reading companion | Chrome |
 | [MaxAI](https://maxai.me) | Use any AI model on any webpage | Chrome |
 | [Harpa AI](https://harpa.ai) | AI web automation agent | Chrome |
 
