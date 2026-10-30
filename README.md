@@ -8,6 +8,7 @@
 
 Coding, writing, image, video, audio, search, agents, models, infrastructure — all in one place.
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![Last Updated](https://img.shields.io/badge/last_updated-March_2026-blue)
 ![Tools Listed](https://img.shields.io/badge/tools_listed-200+-brightgreen)
