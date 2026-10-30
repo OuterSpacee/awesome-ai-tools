@@ -79,6 +79,7 @@ General-purpose AI chat interfaces and personal assistants.
 | [HuggingChat](https://huggingface.co/chat) | Open-source chat interface by Hugging Face | 🟢 🌐 |
 | [DuckDuckGo AI Chat](https://duck.ai/chat) | Private AI chat with no data retention | 🟢 🌐 |
 | [Poe](https://poe.com) | Access multiple AI models in one platform | 💰 🌐 |
+| [StudyArena](https://studyarena.com) | Compare three blind AI answers to study questions, then vote and reveal models | 💰 🌐 |
 | [WSUP AI](https://wsupai.app/) | Free AI character chat in the browser — talk to AI characters with no sign up. SFW only | 🟢 🌐 |
 | [You.com](https://you.com) | Conversational AI search with Smart/Genius/Research modes | 💰 🌐 |
 | [Grok](https://grok.com) | xAI's conversational AI with real-time X and web access | 💰 🌐 |
