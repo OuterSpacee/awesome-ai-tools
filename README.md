@@ -394,6 +394,7 @@ Model Context Protocol servers, clients, and ecosystem tools.
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Curated list of MCP servers | 🟢 🔓 |
 | [mcp-framework](https://github.com/QuantGeekDev/mcp-framework) | Fast MCP server building framework | 🟢 🔓 |
 | [FastMCP](https://github.com/jlowin/fastmcp) | Python framework for building MCP servers quickly | 🟢 🔓 |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first video composition and editing via CLI, MCP and plan.json timelines. | 🔓 ⌨️ |
 | [Smithery](https://smithery.ai) | MCP server registry and discovery | 💰 🌐 |
 | [Supergateway](https://github.com/nicholasgriffintn/supergateway) | Run MCP servers over HTTP/SSE | 🟢 🔓 |
 
