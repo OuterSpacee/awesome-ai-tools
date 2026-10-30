@@ -253,6 +253,7 @@ Note-taking, meeting tools, task management, and workflow enhancement.
 | Tool | Description | Access |
 |------|-------------|--------|
 | [Beautiful.ai](https://beautiful.ai) | AI presentation design | 💰 🌐 |
+| [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) | Open-source Windows desktop companion for tracking Codex quota and reset times | 🟢 🔓 🖥️ |
 | [Fireflies.ai](https://fireflies.ai) | AI notetaker for meetings | 💰 🌐 |
 | [Gamma](https://gamma.app) | AI-powered presentations and documents | 💰 🌐 |
 | [Granola](https://granola.ai) | AI-enhanced meeting notes | 💰 🖥️ |
