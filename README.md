@@ -463,6 +463,7 @@ AI-powered data analysis, visualization, and business intelligence.
 | [Apache Superset](https://github.com/apache/superset) | Modern data exploration and visualization | 🟢 🔓 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
+| [Vaneform](https://vaneform.com) | Free website traffic estimates, sources, and growth leaderboards for any domain | 🟢 🌐 |
 
 ## AI Security
 
