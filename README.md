@@ -147,6 +147,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
 | [Recraft](https://www.recraft.ai) | Design-focused image generation with vector (SVG) output | 💰 🌐 |
+| [EmptyRoom AI](https://emptyroomai.com) | AI virtual staging for real estate listing photos | 💰 🌐 |
 
 ### Open Source / Self-Hosted
 
