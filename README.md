@@ -415,6 +415,7 @@ Model Context Protocol servers, clients, and ecosystem tools.
 
 | Tool | Description | Access |
 |------|-------------|--------|
+| [agent-qa](https://vostride.com) | MCP test agent with persistent memory and evidence-gated self-improvement | ⌨️ |
 | [MCP Specification](https://github.com/modelcontextprotocol/modelcontextprotocol) | The official MCP protocol spec (Linux Foundation) | 🟢 🔓 |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Official reference MCP server implementations | 🟢 🔓 |
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Curated list of MCP servers | 🟢 🔓 |
