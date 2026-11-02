@@ -175,6 +175,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [Kling AI](https://kling.ai) | High-quality free-tier video generation | 💰 🌐 |
 | [Runway](https://runway.com) | Professional AI video editing and generation suite | 💵 🌐 |
 | [Pika](https://pika.art) | Creative video generation with style controls | 💰 🌐 |
+| [Dance AI Generator](https://danceaigenerator.com/?utm_source=github&utm_medium=github&utm_campaign=OuterSpacee_awesome-ai-tools) | Turn one photo of a person or pet into a 6-second 9:16 dance video | 💰 🌐 |
 | [LiveFaceSwap AI](https://livefaceswap.ai/) | Cloud webcam face swapping with browser preview and desktop camera output | 💵 🌐 🖥️ |
 | [Luma Dream Machine](https://lumalabs.ai) | Fast video generation with strong motion | 💰 🌐 |
 | [Hailuo MiniMax](https://hailuoai.video) | High-quality video generation | 💰 🌐 |
