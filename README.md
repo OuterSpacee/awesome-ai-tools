@@ -453,6 +453,7 @@ AI-powered data analysis, visualization, and business intelligence.
 
 | Tool | Description | Access |
 |------|-------------|--------|
+| [DeeDee Pulse](https://pulse.deedee.tech/) | LLM API group availability, rate comparisons, and test reports | 🟢 🌐 |
 | [Julius AI](https://julius.ai) | AI data analysis and visualization | 💰 🌐 |
 | [Obviously AI](https://obviously.ai) | No-code ML predictions | 💰 🌐 |
 | [Hex](https://hex.tech) | Collaborative data notebooks with AI | 💰 🌐 |
