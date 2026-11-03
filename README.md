@@ -235,6 +235,7 @@ AI tools for writing, editing, content creation, and copywriting.
 | [Hemingway Editor](https://hemingwayapp.com) | AI-enhanced readability editing | 💰 🌐 |
 | [HumanPen](https://humanpen.net) | Document rewriter that preserves layout and citations | 💰 🌐 |
 | [Sudowrite](https://sudowrite.com) | AI creative/fiction writing assistant | 💰 🌐 |
+| [ImagineYourBook](https://www.imagineyourbook.com/) | Drafts a full-length book from one brief, with Word and EPUB export | 💰 🌐 |
 | [Lex](https://lex.page) | Minimalist AI-enhanced writing editor | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
