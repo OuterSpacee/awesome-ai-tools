@@ -179,6 +179,8 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [Luma Dream Machine](https://lumalabs.ai) | Fast video generation with strong motion | 💰 🌐 |
 | [Hailuo MiniMax](https://hailuoai.video) | High-quality video generation | 💰 🌐 |
 | [CapCut](https://capcut.com) | AI-powered video editing for social content | 💰 🌐 🖥️ |
+| [Cyanvid](https://cyanvid.com/?utm_source=github-outerspacee-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) | AI video generator — text/image to video with clear credit quotes | 💰 🌐 |
+| [Barz Studio](https://barzvideo.com/?utm_source=github-outerspacee-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) | Free browser rap lyric video maker — bring your track, export 9:16 WebM | 💰 🌐 |
 | [HeyGen](https://www.heygen.com) | AI avatar videos and video translation | 💰 🌐 |
 | [Synthesia](https://www.synthesia.io) | AI presenter videos for training and marketing | 💰 🌐 |
 
