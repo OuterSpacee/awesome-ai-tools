@@ -169,6 +169,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 
 | Tool | Description | Access |
 |------|-------------|--------|
+| [AI Rap Video Generator](https://airapvideo.aieffects.org/) | Turn photos into lip-synced rap videos with beats and style options | 💰 🌐 |
 | [Clout](https://tryclout.ai/) | AI characters, image/video generation, and faceless content workflows | 💵 🌐 |
 | [Sora](https://sora.com) | OpenAI's video generation model | 💵 🌐 |
 | [Google Veo](https://deepmind.google/technologies/veo/) | Google's high-quality video generation via Gemini | 💰 🌐 |
