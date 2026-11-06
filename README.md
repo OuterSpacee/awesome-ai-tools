@@ -436,6 +436,7 @@ AI-powered design, prototyping, and UI development tools.
 | Tool | Description | Access |
 |------|-------------|--------|
 | [Aurcue](https://www.aurcue.com) | AI personal styling reports from user photos | 💰 🌐 |
+| [EasySociable](https://easysociable.com/) | Agent-native carousel maker for TikTok, Instagram & LinkedIn | 💰 🌐 |
 | [Figma AI](https://figma.com) | AI features integrated into Figma | 💰 🌐 |
 | [v0](https://v0.app) | Generate UI components from text (by Vercel) | 💰 🌐 |
 | [Uizard](https://uizard.io) | AI-powered UI design and prototyping | 💰 🌐 |
