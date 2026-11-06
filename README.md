@@ -139,6 +139,9 @@ Tools for creating images from text, editing photos, and generating art.
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium |
 | [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [DALL-E](https://openai.com/dall-e-3) | OpenAI image generation, integrated into ChatGPT | 💰 🌐 |
 | [Adobe Firefly](https://firefly.adobe.com) | Commercial-safe AI image generation | 💰 🌐 |
 | [Ideogram](https://ideogram.ai) | AI art with excellent text rendering | 💰 🌐 |
