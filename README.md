@@ -423,6 +423,7 @@ Model Context Protocol servers, clients, and ecosystem tools.
 | [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first video composition and editing via CLI, MCP and plan.json timelines. | 🔓 ⌨️ |
 | [Smithery](https://smithery.ai) | MCP server registry and discovery | 💰 🌐 |
 | [Serpel](https://serpel.app) | SEO infrastructure for rankings, audits, keywords, and AI visibility | 💰 🌐 |
+| [Datacircle](https://datacircle.dev) | Find the best GTM APIs. Open MCP server, no key, at api.datacircle.dev/mcp | 🟢 🌐 |
 | [Supergateway](https://github.com/supercorp-ai/supergateway) | Run MCP servers over HTTP/SSE | 🟢 🔓 |
 | [Context7](https://github.com/upstash/context7) | MCP server serving up-to-date library docs to coding agents | 🟢 🔓 |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation MCP server by Microsoft | 🟢 🔓 |
