@@ -181,6 +181,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [CapCut](https://capcut.com) | AI-powered video editing for social content | 💰 🌐 🖥️ |
 | [HeyGen](https://www.heygen.com) | AI avatar videos and video translation | 💰 🌐 |
 | [Synthesia](https://www.synthesia.io) | AI presenter videos for training and marketing | 💰 🌐 |
+| [Vidney](https://vidney.ai/) | Text/photo video generation with pet effects and family photo tools. | 💰 🌐 |
 
 ### Open Source / Self-Hosted
 
