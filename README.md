@@ -275,6 +275,7 @@ Note-taking, meeting tools, task management, and workflow enhancement.
 | [Motion](https://usemotion.com) | AI-powered calendar and task scheduler | 💵 🌐 |
 | [NotebookLM](https://notebook.google.com) | Google's AI research tool with source-grounded answers | 🟢 🌐 |
 | [Notion AI](https://www.notion.com) | AI layer across your entire Notion workspace | 💰 🌐 🖥️ |
+| [ORANO](https://oranoai.com) | Turns saved videos and articles into searchable summaries and step-by-step plans. | 💰 🌐 |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI team coordinated by a Commander in one chat. | 🔓 🖥️ |
 | [Otter.ai](https://otter.ai) | AI meeting transcription and summaries | 💰 🌐 |
 | [Reclaim.ai](https://reclaim.ai) | AI calendar optimization | 💰 🌐 |
