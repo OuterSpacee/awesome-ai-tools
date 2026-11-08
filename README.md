@@ -170,6 +170,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 | Tool | Description | Access |
 |------|-------------|--------|
 | [Clout](https://tryclout.ai/) | AI characters, image/video generation, and faceless content workflows | 💵 🌐 |
+| [EasyRap](https://easyrapvideo.com/) | Turns one or two photos into short rap music videos | 💵 🌐 |
 | [Sora](https://sora.com) | OpenAI's video generation model | 💵 🌐 |
 | [Google Veo](https://deepmind.google/technologies/veo/) | Google's high-quality video generation via Gemini | 💰 🌐 |
 | [Kling AI](https://kling.ai) | High-quality free-tier video generation | 💰 🌐 |
