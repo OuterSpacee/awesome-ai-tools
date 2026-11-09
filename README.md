@@ -461,6 +461,7 @@ AI-powered data analysis, visualization, and business intelligence.
 | [Pandas AI](https://github.com/Sinaptik-AI/pandas-ai) | Conversational data analysis with pandas | 🟢 🔓 |
 | [Metabase](https://github.com/metabase/metabase) | Open-source BI with AI features | 🟢 🔓 🌐 |
 | [Apache Superset](https://github.com/apache/superset) | Modern data exploration and visualization | 🟢 🔓 🌐 |
+| [EarlyLore](https://earlylore.com) | AI product-idea validator against real competitors, demand, and entry angles | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
