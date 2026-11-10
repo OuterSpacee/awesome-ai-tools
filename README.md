@@ -236,6 +236,7 @@ AI tools for writing, editing, content creation, and copywriting.
 | [HumanPen](https://humanpen.net) | Document rewriter that preserves layout and citations | 💰 🌐 |
 | [Sudowrite](https://sudowrite.com) | AI creative/fiction writing assistant | 💰 🌐 |
 | [Lex](https://lex.page) | Minimalist AI-enhanced writing editor | 💰 🌐 |
+| [Prompt Generator](https://trypromptgenerator.com) | Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
