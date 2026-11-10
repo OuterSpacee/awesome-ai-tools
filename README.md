@@ -215,6 +215,7 @@ Voice generation, music creation, audio editing, and speech-to-text tools.
 | [Deepgram](https://deepgram.com) | Fast, accurate speech-to-text API | 💰 🌐 |
 | [AssemblyAI](https://assemblyai.com) | Speech-to-text with speaker diarization | 💰 🌐 |
 | [Kokoro](https://github.com/hexgrad/kokoro) | Lightweight open-weight text-to-speech model (82M) | 🟢 🔓 |
+| [Transcribe Video: To The Text](https://apps.apple.com/us/app/transcribe-video-to-the-text/id6757491608) | iPhone app: video, audio and YouTube links to text, speaker split, summary | 💰 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
