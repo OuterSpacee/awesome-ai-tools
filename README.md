@@ -533,6 +533,7 @@ Browser extensions that add AI capabilities.
 | [Glasp](https://glasp.co) | AI-powered web highlighter and notes | Chrome |
 | [MaxAI](https://maxai.me) | Use any AI model on any webpage | Chrome |
 | [Harpa AI](https://harpa.ai) | AI web automation agent | Chrome |
+| [YouTube Transcript: AI Summary & Chat](https://chromewebstore.google.com/detail/bbappnicmjmiliipjcmciaffiglmoekd) | YouTube transcript, AI summary and chat next to the video | Chrome |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
