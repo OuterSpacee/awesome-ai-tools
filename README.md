@@ -267,6 +267,7 @@ Note-taking, meeting tools, task management, and workflow enhancement.
 |------|-------------|--------|
 | [Beautiful.ai](https://beautiful.ai) | AI presentation design | 💰 🌐 |
 | [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) | Open-source Windows desktop companion for tracking Codex quota and reset times | 🟢 🔓 🖥️ |
+| [CookLLM](https://cookllm.com/en/jobs/match) | An AI job matcher that emails you new roles that fit | 💵 🌐 |
 | [Fireflies.ai](https://fireflies.ai) | AI notetaker for meetings | 💰 🌐 |
 | [Gamma](https://gamma.app) | AI-powered presentations and documents | 💰 🌐 |
 | [Granola](https://granola.ai) | AI-enhanced meeting notes | 💰 🖥️ |
