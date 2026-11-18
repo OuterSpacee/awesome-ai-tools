@@ -236,6 +236,7 @@ AI tools for writing, editing, content creation, and copywriting.
 | [HumanPen](https://humanpen.net) | Document rewriter that preserves layout and citations | 💰 🌐 |
 | [Sudowrite](https://sudowrite.com) | AI creative/fiction writing assistant | 💰 🌐 |
 | [Lex](https://lex.page) | Minimalist AI-enhanced writing editor | 💰 🌐 |
+| [Wavegrain](https://wavegrain.com/?utm_source=outerspacee-awesome-ai-tools) | Writes and designs TikTok slideshows and Instagram carousels for a brand | 💵 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
