@@ -147,6 +147,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
 | [Recraft](https://www.recraft.ai) | Design-focused image generation with vector (SVG) output | 💰 🌐 |
+| [TattooTryOn](https://tattootryon.app/) | A tattoo simulator that works on your photo, not a model | 💰 🌐 |
 
 ### Open Source / Self-Hosted
 
