@@ -181,6 +181,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [CapCut](https://capcut.com) | AI-powered video editing for social content | 💰 🌐 🖥️ |
 | [HeyGen](https://www.heygen.com) | AI avatar videos and video translation | 💰 🌐 |
 | [Synthesia](https://www.synthesia.io) | AI presenter videos for training and marketing | 💰 🌐 |
+| [Twistavo](https://twistavo.com/) | AI video studio for character swap: replace a person in a real video from 1 to 4 photos, plus AI influencer videos and many video and image models on one credit balance; plans from $3.99/month | 💵 🌐 |
 
 ### Open Source / Self-Hosted
 
