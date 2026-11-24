@@ -549,6 +549,7 @@ Courses, tutorials, and educational content for learning AI.
 | [LLM University (Cohere)](https://cohere.com/llmu) | Free LLM fundamentals course | 🟢 🌐 |
 | [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Comprehensive prompt engineering resource | 🟢 🔓 |
 | [LLM Course](https://github.com/mlabonne/llm-course) | Complete guide to LLMs with roadmap | 🟢 🔓 |
+| [网赚案例库](https://wz.790221.xyz/) | 53 verified real money-making cases with AI, free | 🟢 🌐 |
 | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Microsoft's 21-lesson AI course | 🟢 🔓 |
 | [AI Engineering Academy](https://github.com/AI-Engineering-Katas/ai-katas) | Hands-on AI engineering exercises | 🟢 🔓 |
 
