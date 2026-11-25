@@ -426,6 +426,7 @@ Model Context Protocol servers, clients, and ecosystem tools.
 | [Supergateway](https://github.com/supercorp-ai/supergateway) | Run MCP servers over HTTP/SSE | 🟢 🔓 |
 | [Context7](https://github.com/upstash/context7) | MCP server serving up-to-date library docs to coding agents | 🟢 🔓 |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation MCP server by Microsoft | 🟢 🔓 |
+| [FlowFeed MCP](https://flowfeed.cc) | Hosted MCP server with real-time macro, forex and crypto news and an economic calendar | 💵 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
