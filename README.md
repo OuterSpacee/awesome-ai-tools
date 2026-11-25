@@ -426,6 +426,7 @@ Model Context Protocol servers, clients, and ecosystem tools.
 | [Supergateway](https://github.com/supercorp-ai/supergateway) | Run MCP servers over HTTP/SSE | 🟢 🔓 |
 | [Context7](https://github.com/upstash/context7) | MCP server serving up-to-date library docs to coding agents | 🟢 🔓 |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation MCP server by Microsoft | 🟢 🔓 |
+| [QuestionPunk MCP](https://www.questionpunk.com/features/mcp-server) | Draft surveys and read response reports and cross-tabs from an MCP client | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
