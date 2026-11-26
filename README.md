@@ -158,6 +158,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Simplified Stable Diffusion, Midjourney-like interface | 🟢 🔓 🖥️ |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Professional creative AI toolkit | 🟢 🔓 🖥️ |
 | [Draw Things](https://drawthings.ai) | AI image generation on Apple Silicon | 🟢 🖥️ |
+| [AIBanner](https://www.aibanner.ai/) | Generate banner images from text prompts and optional reference images. | 💰 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
