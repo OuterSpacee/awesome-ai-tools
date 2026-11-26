@@ -215,6 +215,7 @@ Voice generation, music creation, audio editing, and speech-to-text tools.
 | [Deepgram](https://deepgram.com) | Fast, accurate speech-to-text API | 💰 🌐 |
 | [AssemblyAI](https://assemblyai.com) | Speech-to-text with speaker diarization | 💰 🌐 |
 | [Kokoro](https://github.com/hexgrad/kokoro) | Lightweight open-weight text-to-speech model (82M) | 🟢 🔓 |
+| [Flow Music AI](https://flowmusicai.pro/) | Generate vocal songs and instrumentals from prompts or original lyrics. | 💵 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
