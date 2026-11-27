@@ -515,6 +515,7 @@ APIs and cloud platforms for integrating AI into your applications.
 | [Replicate](https://replicate.com) | Run any ML model via API | Pay-per-use |
 | [Hugging Face](https://huggingface.co) | 500k+ models, Inference API | Generous free tier |
 | [Deepinfra](https://deepinfra.com) | Serverless LLM inference | Free credits |
+| [Kunavo](https://kunavo.com) | Text, image, video and music models through a unified API | Paid only (prepaid usage) |
 | [OpenRouter](https://openrouter.ai) | Unified API for all major models | Pay-per-use |
 | [Cerebras](https://cerebras.ai) | Fastest inference available | Free tier |
 
