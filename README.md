@@ -83,6 +83,7 @@ General-purpose AI chat interfaces and personal assistants.
 | [You.com](https://you.com) | Conversational AI search with Smart/Genius/Research modes | 💰 🌐 |
 | [Grok](https://grok.com) | xAI's conversational AI with real-time X and web access | 💰 🌐 |
 | [Le Chat](https://chat.mistral.ai) | Mistral's AI assistant with web search and canvas | 💰 🌐 |
+| [Whizi](https://whizi.io) | GPT, Claude, Gemini, Grok and 280+ models in one chat app, plus image and video | 💵 🌐 |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
