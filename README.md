@@ -147,6 +147,7 @@ Tools for creating images from text, editing photos, and generating art.
 | [Krea AI](https://krea.ai) | Real-time AI image generation | 💰 🌐 |
 | [Flux](https://flux.dev) | High-quality open-weight image model by Black Forest Labs | 💰 🌐 |
 | [Recraft](https://www.recraft.ai) | Design-focused image generation with vector (SVG) output | 💰 🌐 |
+| [PalaPili](https://palapili.com) | AI Creative Studio for Images & Video — generate and edit images and video with multiple AI models | 💰 🌐 |
 
 ### Open Source / Self-Hosted
 
@@ -181,6 +182,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [CapCut](https://capcut.com) | AI-powered video editing for social content | 💰 🌐 🖥️ |
 | [HeyGen](https://www.heygen.com) | AI avatar videos and video translation | 💰 🌐 |
 | [Synthesia](https://www.synthesia.io) | AI presenter videos for training and marketing | 💰 🌐 |
+| [PalaPili](https://palapili.com) | AI Creative Studio for Images & Video — generate and edit images and video with multiple AI models | 💰 🌐 |
 
 ### Open Source / Self-Hosted
 
