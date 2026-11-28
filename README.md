@@ -176,6 +176,7 @@ Text-to-video, image-to-video, and AI video editing tools.
 | [Runway](https://runway.com) | Professional AI video editing and generation suite | 💵 🌐 |
 | [Pika](https://pika.art) | Creative video generation with style controls | 💰 🌐 |
 | [LiveFaceSwap AI](https://livefaceswap.ai/) | Cloud webcam face swapping with browser preview and desktop camera output | 💵 🌐 🖥️ |
+| [LiveFaceSwap Pro](https://livefaceswap.pro/) | Real-time webcam face swap in the browser, with OBS output for streams and video calls | 💵 🌐 |
 | [Luma Dream Machine](https://lumalabs.ai) | Fast video generation with strong motion | 💰 🌐 |
 | [Hailuo MiniMax](https://hailuoai.video) | High-quality video generation | 💰 🌐 |
 | [CapCut](https://capcut.com) | AI-powered video editing for social content | 💰 🌐 🖥️ |
