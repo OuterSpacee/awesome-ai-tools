@@ -420,7 +420,7 @@ Model Context Protocol servers, clients, and ecosystem tools.
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Curated list of MCP servers | 🟢 🔓 |
 | [mcp-framework](https://github.com/QuantGeekDev/mcp-framework) | Fast MCP server building framework | 🟢 🔓 |
 | [FastMCP](https://github.com/PrefectHQ/fastmcp) | Python framework for building MCP servers quickly | 🟢 🔓 |
-| [Frank AI Researcher](https://www.hifrank.ai) | Official remote MCP for AI-moderated voice interviews with your customers. | 💰 🌐 |
+| [Frank AI Researcher](https://www.hifrank.ai) | Remote MCP for AI-moderated voice interviews with your customers. | 💰 🌐 |
 | [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first video composition and editing via CLI, MCP and plan.json timelines. | 🔓 ⌨️ |
 | [Smithery](https://smithery.ai) | MCP server registry and discovery | 💰 🌐 |
 | [Serpel](https://serpel.app) | SEO infrastructure for rankings, audits, keywords, and AI visibility | 💰 🌐 |
